@@ -1,21 +1,21 @@
 { 
     "banner1": {
-        "img": "https://media.discordapp.net/attachments/871436785656418405/977846156916830229/unknown.png",
-        "url": ""
+        "img": "https://media.discordapp.net/attachments/901384775263199232/977845078645149726/2022-05-22_17.06.43.png?width=1440&height=542",
+        "url": "https://cafe.naver.com/mercuryonline"
     },
 
     "banner2": {
-        "img": "https://media.discordapp.net/attachments/871436785656418405/977846156916830229/unknown.png",
-        "url": ""
+        "img": "https://media.discordapp.net/attachments/901384775263199232/977847394924388403/2022-05-22_17.16.02.png?width=1440&height=542",
+        "url": "https://cafe.naver.com/mercuryonline"
     },
 
     "banner3": {
-        "img": "https://media.discordapp.net/attachments/871436785656418405/977846156916830229/unknown.png",
-        "url": ""
+        "img": "https://media.discordapp.net/attachments/901384775263199232/977485415495901204/2022-05-21_17.17.18.png?width=1440&height=542",
+        "url": "https://cafe.naver.com/mercuryonline"
     },
 
     "banner4": {
-        "img": "https://media.discordapp.net/attachments/871436785656418405/977846156916830229/unknown.png",
-        "url": ""
+        "img": "https://media.discordapp.net/attachments/901384775263199232/977481748051034162/2022-05-21_17.02.48.png?width=1440&height=542",
+        "url": "https://cafe.naver.com/mercuryonline"
     }
 }
