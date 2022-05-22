@@ -1,21 +1,21 @@
 { 
     "banner1": {
-        "img": "",
+        "img": "https://media.discordapp.net/attachments/871436785656418405/977846156916830229/unknown.png",
         "url": ""
     },
 
     "banner2": {
-        "img": "",
+        "img": "https://media.discordapp.net/attachments/871436785656418405/977846156916830229/unknown.png",
         "url": ""
     },
 
     "banner3": {
-        "img": "",
+        "img": "https://media.discordapp.net/attachments/871436785656418405/977846156916830229/unknown.png",
         "url": ""
     },
 
     "banner4": {
-        "img": "",
+        "img": "https://media.discordapp.net/attachments/871436785656418405/977846156916830229/unknown.png",
         "url": ""
     }
 }
