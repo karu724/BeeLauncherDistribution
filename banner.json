@@ -1,21 +1,21 @@
 { 
     "banner1": {
-        "img": "https://media.discordapp.net/attachments/981064229329174528/981105601402781707/57e85ebbfd880607.jpg",
-        "url": "https://groundgroup.modoo.at/"
-    },
-
-    "banner2": {
-        "img": "https://media.discordapp.net/attachments/751140604167192796/980820995726274601/dmdkdkdk.png",
-        "url": "https://cafe.naver.com/mercuryonline/8666"
-    },
-
-    "banner3": {
-        "img": "https://media.discordapp.net/attachments/976130370867175434/980832236251271238/-_-001_3.png",
+        "img": "https://media.discordapp.net/attachments/983339623151439872/983339664352092170/-_-001_5.png",
         "url": "https://cafe.naver.com/mercuryonline"
     },
 
+    "banner2": {
+        "img": "https://media.discordapp.net/attachments/983339623151439872/983339786410537020/-_-001_4-1.png",
+        "url": "https://cafe.naver.com/mercuryonline/9130"
+    },
+
+    "banner3": {
+        "img": "https://media.discordapp.net/attachments/983339623151439872/983339888256614450/unknown-41.png",
+        "url": "https://discord.gg/pCjC6jPb"
+    },
+
     "banner4": {
-        "img": "https://media.discordapp.net/attachments/979990969552367616/980832742424076319/2.png",
-        "url": "https://cafe.naver.com/mercuryonline/8744"
+        "img": "https://media.discordapp.net/attachments/983339623151439872/983340124135886878/sdsawrwsf-1.jpg",
+        "url": "https://cafe.naver.com/mercuryoneline/9002"
     }
 }
