@@ -1,21 +1,21 @@
 { 
     "banner1": {
-        "img": "https://media.discordapp.net/attachments/978132796667211817/985479276755316756/o_1_3_1.png",
+        "img": "https://cdn.discordapp.com/attachments/991185549937344553/991185740895633448/rented_ban.jpg",
         "url": "https://cafe.naver.com/mercuryonline"
     },
 
     "banner2": {
-        "img": "https://media.discordapp.net/attachments/983036613925961748/985533816678543360/adaaaa.png",
-        "url": "https://cafe.naver.com/mercuryonline/9684"
+        "img": "https://cdn.discordapp.com/attachments/985741761295040530/990986033434865704/438X334_.jpg",
+        "url": "https://cafe.naver.com/mercuryonline"
     },
 
     "banner3": {
-        "img": "https://media.discordapp.net/attachments/982269409458532372/985481853416906812/sketch-1655027573482.png",
-        "url": "https://blackswanmc.modoo.at/"
+        "img": "",
+        "url": "https://cafe.naver.com/mercuryonline"
     },
 
     "banner4": {
-        "img": "https://media.discordapp.net/attachments/977833351878684693/986592156015820820/unknown.png",
-        "url": "https://discord.gg/MNpg5vMR"
+        "img": "",
+        "url": "https://cafe.naver.com/mercuryonline"
     }
 }
