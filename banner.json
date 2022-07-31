@@ -1,6 +1,6 @@
 { 
     "banner1": {
-        "img": "https://cdn.discordapp.com/attachments/985741761295040530/990986033434865704/438X334_.jpg",
+        "img": "",
         "url": "https://cafe.naver.com/mercuryonline"
     },
 
@@ -15,7 +15,7 @@
     },
 
     "banner4": {
-        "img": "",
+        "img": "https://cdn.discordapp.com/attachments/985741761295040530/990986033434865704/438X334_.jpg",
         "url": "https://cafe.naver.com/mercuryonline"
     }
 }
